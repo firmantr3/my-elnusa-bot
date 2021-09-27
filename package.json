@@ -1,0 +1,14 @@
+{
+  "name": "my-elnusa-bot",
+  "version": "1.0.0",
+  "description": "My Elnusa Bot",
+  "scripts": {
+    "tugas": "node tugas.js"
+  },
+  "author": "Firman Taruna Nugraha",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "puppeteer": "^10.4.0"
+  }
+}
